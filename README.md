@@ -34,11 +34,8 @@ YukaEngine bukan sekadar bot biasa. Ini adalah **foundation** bagi developer yan
 
 ### 2. Langkah Instalasi
 ```bash
-# Clone repository ini
-git clone [https://github.com/username/Baileys-YukaEngine.git](https://github.com/username/Baileys-YukaEngine.git)
-
 # Masuk ke direktori projek
-cd Baileys-YukaEngine
+npm install yukaaengine-baileys
 
-# Install semua dependensi
-npm install
+#done?
+npm start
